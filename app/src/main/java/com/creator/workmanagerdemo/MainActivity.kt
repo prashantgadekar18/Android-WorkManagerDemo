@@ -41,10 +41,10 @@ class MainActivity : ComponentActivity() {
 
 
 //        For one time work request
-//        doWork()
+        doWork()
 
 //        For periodic work request
-        doPeriodicWork()
+//        doPeriodicWork()
     }
 
     private fun doPeriodicWork() {
